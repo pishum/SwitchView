@@ -1,0 +1,1 @@
+基于IOS7.0之后的UINavigation和UIControllerView的切换，可以实现从屏幕左侧边框滑动到右边返回的功能
